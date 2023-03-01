@@ -1,5 +1,5 @@
 # RLC Circuit Simulator in Prolog:
-### This project is an RLC circuit simulator implemented in Prolog. The circuit consists of a voltage source (VL), a resistor (VR), a capacitor (VC), and an inductor (VL). The simulator divides time into small time increments (DeltaT) and calculates the state of the system at each point in time using the differential equations that describe the behavior of the circuit.
+### A RLC circuit simulator implemented in Prolog. The circuit consists of a voltage source (VL), a resistor (VR), a capacitor (VC), and an inductor (VL). The simulator divides time into small time increments (DeltaT) and calculates the state of the system at each point in time using the differential equations that describe the behavior of the circuit.
 
 ## Pre-requisites
 
