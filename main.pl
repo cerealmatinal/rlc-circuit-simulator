@@ -1,4 +1,3 @@
-% Constantes físicas
 voltage_source(1).    
 resistance(100).      
 inductance(1e-6).    
